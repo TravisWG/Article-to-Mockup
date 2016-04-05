@@ -6,4 +6,4 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 ---
 
-Your response goes here!
+I had some previous html experience so this lesson acted more as a refresher for some tags that I don't use frequently like the horizontal rule, strikethrough, and superscript tags.  Hopefully, I didn't miss anything when I tried to match everything to the mockup.  *fingers crossed*
